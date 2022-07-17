@@ -7,6 +7,8 @@ Making discord bot
 (Korean Command)
 --- "WRIB"
 (Provide Runway info with METAR by ICAO)
+-----------------------------------------------------------------------------------------------------------
+Server : Heroku
 ```
 ## Bot invite
 > 뭉이: https://discord.com/oauth2/authorize?client_id=896317141329006622&permissions=8&scope=bot
