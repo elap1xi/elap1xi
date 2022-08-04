@@ -11,8 +11,8 @@ Making discord bot
 Server : Heroku
 ```
 <div align="center">
-  <table background="https://raw.githubusercontent.com/aidenybai/million/main/.github/assets/banner-light.svg">
-    <tbody>
+  <table>
+    <tbody background="https://raw.githubusercontent.com/aidenybai/million/main/.github/assets/banner-light.svg">
       <tr>
         <td>
           <a href="https://discord.com/oauth2/authorize?client_id=896317141329006622&permissions=8&scope=bot">뭉이</a>
