@@ -11,7 +11,7 @@ Making discord bot
 Server : Heroku
 ```
 <div align="center">
-  <table>
+  <table background="https://raw.githubusercontent.com/aidenybai/million/main/.github/assets/banner-light.svg">
     <tbody>
       <tr>
         <td>
