@@ -16,7 +16,7 @@ c, cpp, c# : 0.01%
 
 >WRIB responds with `/rw <icao>` is a bot that calculates and tell the wind direction and wind speed of the Head (Tail)wind and Crosswind based on runway direction and airport METAR information.
 
- **Note**: Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
+Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
 
 <div>
   <h2>Bot Invite</h2>
@@ -35,7 +35,7 @@ c, cpp, c# : 0.01%
 </div>
 
 ## Helper
-> help & advice_ @NYJ36
+> help & advice_ [@NYJ36](https://github.com/NYJ36)
 
 ## API that I'm using
 - NAVER Papago - <https://developers.naver.com>
@@ -47,7 +47,7 @@ c, cpp, c# : 0.01%
 
 ## Others
 ```
-Fan of IU
+Fan of [IU](https://www.instagram.com/dlwlrma/)
 Uaena .5
 I like Pasta 🍝
 ```
