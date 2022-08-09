@@ -12,7 +12,7 @@ c, cpp, c# : 0.01%
 - 뭉이
 - WRIB (FIXING)
 
-> 뭉이 is the bot with [Korean Commands](https://we_are_making_a_List_so_pls_wait.com/ "Making commands list"). Since we are using the free server and API, the response may be a little slow.
+> 뭉이 is the bot with [Korean Commands](https://we_are_making_a_List_so_pls_wait.com/ ,"Making commands list"). Since we are using the free server and API, the response may be a little slow.
 
 >WRIB responds with `/rw <icao>` is a bot that calculates and tell the wind direction and wind speed of the Head (Tail)wind and Crosswind based on runway direction and airport METAR information.
 
@@ -35,7 +35,7 @@ Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
 </div>
 
 ## Helper
-> help & advice_ [@NYJ36](https://github.com/NYJ36)
+> help & advice_ [@NYJ36](https://github.com/NYJ36, "Github - NYJ36")
 
 ## API that I'm using
 - NAVER Papago - <https://developers.naver.com>
