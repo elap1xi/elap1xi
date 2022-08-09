@@ -16,7 +16,7 @@ c, cpp, c# : 0.01%
 
 >WRIB responds with `/rw <icao>` is a bot that calculates and tell the wind direction and wind speed of the Head (Tail)wind and Crosswind based on runway direction and airport METAR information.
 
-**Note**: Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
+> **Note**: Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
 
 <div>
   <h2>Bot Invite</h2>
