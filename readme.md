@@ -46,7 +46,7 @@ Hosting Server - [Heroku](https://www.heroku.com/, "heroku.com")
 - World Airports Directory API - [https://rapidapi.com](https://rapidapi.com/karanp41-eRiF1pYLK1P/api/world-airports-directory)
 
 ## Others
-Fan of [IU](https://www.instagram.com/dlwlrma/)
-Uaena .5
-I like Pasta 🍝
+Fan of [IU](https://www.instagram.com/dlwlrma/)   
+ Uaena .5   
+ I like Pasta 🍝
 
