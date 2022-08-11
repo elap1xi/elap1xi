@@ -11,7 +11,7 @@ node.js : 1.3%
 html, css : 2.5%  
 c, cpp, c# : 0.01%
 
-<h4><img src="https://img.shields.io/badge/Python-395B64?style=for-the-badge&logo=python&logoColor=white" width="78"/> <img src="https://img.shields.io/badge/C%23-94B49F?style=for-the-badge&logo=c-sharp&logoColor=white" width="48"/> <img src="https://img.shields.io/badge/HTML-5A8F7B?style=for-the-badge&logo=html5&logoColor=white" width="64"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="79"/> <img src="https://img.shields.io/badge/Markdown-3D3C42?style=for-the-badge&logo=markdown&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/CSS-607EAA?&style=for-the-badge&logo=css3&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/C-AF7AB3?style=for-the-badge&logo=c&logoColor=white" width="45"/> <img src="https://img.shields.io/badge/C%2B%2B-3FA796?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/Lua-7A4069?style=for-the-badge&logo=lua&logoColor=white" width="54"/>
+<h4><img src="https://img.shields.io/badge/Python-395B64?style=for-the-badge&logo=python&logoColor=white" width="78"/> <img src="https://img.shields.io/badge/C%23-94B49F?style=for-the-badge&logo=c-sharp&logoColor=white" width="48"/> <img src="https://img.shields.io/badge/HTML-5A8F7B?style=for-the-badge&logo=html5&logoColor=white" width="64"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="79"/> <img src="https://img.shields.io/badge/Markdown-3D3C42?style=for-the-badge&logo=markdown&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/CSS-607EAA?&style=for-the-badge&logo=css3&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/C-AF7AB3?style=for-the-badge&logo=c&logoColor=white" width="42"/> <img src="https://img.shields.io/badge/C%2B%2B-3FA796?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/Lua-7A4069?style=for-the-badge&logo=lua&logoColor=white" width="54"/>
 
 ## Discord Bot
 <div>
@@ -27,7 +27,7 @@ c, cpp, c# : 0.01%
 
 Hosting Server :  
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku.com" width="90"/></a>
-
+> **Note** : All my projects are in private repository.
 <div>
   <h2>Bot Invite</h2>
   <table>
@@ -45,7 +45,7 @@ Hosting Server :
 </div>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png?1643514968" width="25"> Helper
-> help & advice_ @NYJ36
+> help & advice_ [@NYJ36](https://github.com/NYJ36)
 
 ## API that I'm using
 - NAVER Papago - <https://developers.naver.com>
