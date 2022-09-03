@@ -7,9 +7,9 @@
 
 ## Programming Language
 > Python : 67%   
-node.js : 1.3%  
+node.js : 2.5%  
 html, css : 2.5%  
-c, cpp, c# : 0.3%
+c, cpp, c# : 1.3%
 
 <h4><img src="https://img.shields.io/badge/Python-395B64?style=for-the-badge&logo=python&logoColor=white" width="78"/> <img src="https://img.shields.io/badge/C%23-94B49F?style=for-the-badge&logo=c-sharp&logoColor=white" width="48"/> <img src="https://img.shields.io/badge/HTML-5A8F7B?style=for-the-badge&logo=html5&logoColor=white" width="64"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="79"/> <img src="https://img.shields.io/badge/Markdown-3D3C42?style=for-the-badge&logo=markdown&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/CSS-607EAA?&style=for-the-badge&logo=css3&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/C-AF7AB3?style=for-the-badge&logo=c&logoColor=white" width="42"/> <img src="https://img.shields.io/badge/C%2B%2B-3FA796?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="55"/> <img src="https://img.shields.io/badge/Lua-7A4069?style=for-the-badge&logo=lua&logoColor=white" width="54"/>
 
