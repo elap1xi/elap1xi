@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gangsangwon40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gangsangwon40@gmail.com)](mailto:gangsangwon40@gmail.com)
 <a href="https://discord.com/users/602721036852527104"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="elapix_.1u#0001" width="77.5"/></a>
 
-## Programming Language
+## Language
 > Python : 67%   
 node.js : 2.5%  
 html, css : 2.5%  
