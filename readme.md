@@ -15,7 +15,7 @@ c, cpp, c# : 1.3%
 
 ## Discord Bot
 <div>
- <h3> > Making discord bot <img src="https://emojis.slackmojis.com/emojis/images/1643514749/7563/discordbot.png?1643514749" width="25"></h3>
+ <h3> > Making discord bot (will change to d.js soon)<img src="https://emojis.slackmojis.com/emojis/images/1643514749/7563/discordbot.png?1643514749" width="25"></h3>
 
 
 - 뭉이
