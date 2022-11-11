@@ -7,7 +7,7 @@
 
 ## Language
 > Python : 67%   
-node.js : 6.5%  
+node.js : 23%  
 html, css : 2.3%  
 c, cpp, c# : 5.3%
 
