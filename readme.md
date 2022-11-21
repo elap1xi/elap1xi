@@ -15,7 +15,7 @@ c, cpp, c# : 5.3%
 
 ## Discord Bot
 <div>
- <h3> > Making discord bot (will change to d.js soon)<img src="https://emojis.slackmojis.com/emojis/images/1643514749/7563/discordbot.png?1643514749" width="25"></h3>
+ <h3> > Making discord bot<img src="https://emojis.slackmojis.com/emojis/images/1643514749/7563/discordbot.png?1643514749" width="25"></h3>
 
 
 - 뭉이
@@ -25,8 +25,7 @@ c, cpp, c# : 5.3%
 
 >WRIB responds with `/rw <icao>` is a bot that calculates and tell the wind direction and wind speed of the Head (Tail)wind and Crosswind based on runway direction and airport METAR information.
 
-Hosting Server :  
-<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku.com" width="90"/></a>
+Bot hosted by @NYJ36
 > **Note** : All my projects are in private repository.
 <div>
   <h2>Bot Invite</h2>
